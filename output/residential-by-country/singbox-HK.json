@@ -6,24 +6,24 @@
     {
       "type": "hysteria2",
       "tag": "🇭🇰 中国香港 (Hong Kong) 01 (家宽) - xiaohe",
-      "server": "b08d347f-tmm5c0-tu0ezx-1m7l4.hk3.hyhuawei.com",
+      "server": "bada37c4-tmm5c0-u1dafb-1ro8s.nw4.hyhuawei.com",
       "server_port": 443,
-      "password": "bd515574-3b10-11ee-ac14-f23c9164ca5d",
+      "password": "a18ef18e-293a-11ef-b76e-f23c91cfbbc9",
       "tls": {
         "enabled": true,
-        "server_name": "b08d347f-tmm5c0-tu0ezx-1m7l4.hk3.hyhuawei.com",
+        "server_name": "bada37c4-tmm5c0-u1dafb-1ro8s.nw4.hyhuawei.com",
         "insecure": true
       }
     },
     {
       "type": "hysteria2",
       "tag": "🇭🇰 中国香港 (Hong Kong) 02 (家宽) - xiaohe",
-      "server": "fc0786a4-tmm5c0-tw2fdz-1s824.nw4.hyhuawei.com",
+      "server": "f7f4da49-tmm5c0-tqgocx-1plv4.hk3.hyhuawei.com",
       "server_port": 443,
-      "password": "6d4abac0-86e6-11ef-83cc-f23c913c8d2b",
+      "password": "28213b50-7ed5-11ee-add6-f23c91369f2d",
       "tls": {
         "enabled": true,
-        "server_name": "fc0786a4-tmm5c0-tw2fdz-1s824.nw4.hyhuawei.com",
+        "server_name": "f7f4da49-tmm5c0-tqgocx-1plv4.hk3.hyhuawei.com",
         "insecure": true
       }
     },
